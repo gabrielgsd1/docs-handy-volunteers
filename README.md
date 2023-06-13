@@ -11,3 +11,4 @@ Caso deseje pegar algum arquivo específico, aqui está um guia:
 - Caso queira acessar o diagrama de banco de dados, se encontra na pasta /uml
 - Falando em banco de dados, caso queira acessar o código para criar as tabelas no banco de dados utilizando o SQLite, se encontra na pasta /db, no arquivo sqlite.sql, e caso seja em PostgreSQL, estará na mesma pasta, mas no arquivo postgres.sql
 - Caso queira ver o vídeo de apresentação do projeto, basta clicar [neste link](https://clipchamp.com/watch/5EWv3FpArCf)
+- Caso queira acessar o Pitch, o arquivo está na pasta /pitch
