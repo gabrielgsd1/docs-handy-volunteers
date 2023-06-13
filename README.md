@@ -6,7 +6,7 @@ Por que não dá uma olhada em nossos repositórios do [front-end](https://githu
 
 Caso deseje pegar algum arquivo específico, aqui está um guia:
 
-- O arquivo de endpoints da API se encontra no diretório /endpoints deste repositório
+- O arquivo de endpoints da API se encontra no diretório /endpoints deste repositório (para importar no Insomnia)
 - Os prints das datas em que as tasks do projeto foram realizadas (utilizando o Trello), se encontram na pasta /kanban
 - Caso queira acessar o diagrama de banco de dados, se encontra na pasta /uml
 - Falando em banco de dados, caso queira acessar o código para criar as tabelas no banco de dados utilizando o SQLite, se encontra na pasta /db, no arquivo sqlite.sql, e caso seja em PostgreSQL, estará na mesma pasta, mas no arquivo postgres.sql
